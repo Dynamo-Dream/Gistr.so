@@ -1,6 +1,10 @@
 # Gistr.so
 Gistr helps you turn YouTube videos into actionable insights. It highlights key moments, adds annotations, and organizes clips into collections—all in one simple tool. With AI-powered features like auto-clipping and video summaries, Gistr makes it effortless to save, revisit, and share meaningful content. It is perfect for students, professionals, researchers, and curators.
 
+Want to see a real example?  
+[Check out my curated thread here](https://gistr.so/thread/attention-is-all-you-need-transformer-model-explan).  
+Or explore the platform directly: [https://gistr.so/](https://gistr.so/)
+
 # YouTube Note-Taking in 5 Easy Steps with Gistr's Free AI-Powered Tool!
 
 ![Gistr App](src/gistr_app_image.png)
@@ -18,11 +22,7 @@ When I share my notes, the gratitude and support I get motivates me to do it aga
 ---
 
 ## Let Me Show You My 5-Step Strategy to Take Notes Effectively with Gistr  
-
-Want to see a real example?  
-[Check out my curated thread here](https://gistr.so/thread/attention-is-all-you-need-transformer-model-explan).  
-Or explore the platform directly: [https://gistr.so/](https://gistr.so/)
-[Read Detailed Article Here]([https://gistr.so/](https://medium.com/@cs_nerd/master-youtube-note-taking-in-5-easy-steps-with-gistrs-free-ai-powered-tool-717d6df82c35))
+- [Read Detailed Article Here]([https://gistr.so/](https://medium.com/@cs_nerd/master-youtube-note-taking-in-5-easy-steps-with-gistrs-free-ai-powered-tool-717d6df82c35))
 ---
 
 ### Step 1: Start with the Right Video  
