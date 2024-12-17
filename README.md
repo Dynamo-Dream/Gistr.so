@@ -1,9 +1,9 @@
 # Gistr.so
 Gistr helps you turn YouTube videos into actionable insights. It highlights key moments, adds annotations, and organizes clips into collections—all in one simple tool. With AI-powered features like auto-clipping and video summaries, Gistr makes it effortless to save, revisit, and share meaningful content. It is perfect for students, professionals, researchers, and curators.
 
-Want to see a real example?  
-[Check out my curated thread here](https://gistr.so/thread/attention-is-all-you-need-transformer-model-explan).  
-Or explore the platform directly: [https://gistr.so/](https://gistr.so/)
+### Want to see a real example?  
+### [Check out my curated thread here](https://gistr.so/thread/attention-is-all-you-need-transformer-model-explan).  
+### Or explore the platform directly: [https://gistr.so/](https://gistr.so/)
 
 # YouTube Note-Taking in 5 Easy Steps with Gistr's Free AI-Powered Tool!
 
