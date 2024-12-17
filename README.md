@@ -20,10 +20,7 @@ When I share my notes, the gratitude and support I get motivates me to do it aga
 - Reinforce my understanding by teaching others.  
 
 ---
-
-## Let Me Show You My 5-Step Strategy to Take Notes Effectively with Gistr  
-
-[Read Detailed Article Here]([https://gistr.so/](https://medium.com/@cs_nerd/master-youtube-note-taking-in-5-easy-steps-with-gistrs-free-ai-powered-tool-717d6df82c35)
+[Read Detailed Article Here](https://medium.com/@cs_nerd/master-youtube-note-taking-in-5-easy-steps-with-gistrs-free-ai-powered-tool-717d6df82c35)
 ---
 
 ### Step 1: Start with the Right Video  
