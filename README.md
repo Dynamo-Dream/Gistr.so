@@ -22,7 +22,7 @@ When I share my notes, the gratitude and support I get motivates me to do it aga
 Want to see a real example?  
 [Check out my curated thread here](https://gistr.so/thread/attention-is-all-you-need-transformer-model-explan).  
 Or explore the platform directly: [https://gistr.so/](https://gistr.so/)
-
+[Read Detailed Article Here]([https://gistr.so/](https://medium.com/@cs_nerd/master-youtube-note-taking-in-5-easy-steps-with-gistrs-free-ai-powered-tool-717d6df82c35))
 ---
 
 ### Step 1: Start with the Right Video  
